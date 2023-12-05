@@ -83,3 +83,8 @@ Package filter=lfs diff=lfs merge=lfs -text
 Silverlight filter=lfs diff=lfs merge=lfs -text
 Application filter=lfs diff=lfs merge=lfs -text
 *.xap filter=lfs diff=lfs merge=lfs -text
+Skyward[[:space:]]Leap/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Skyward[[:space:]]Leap/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+Skyward[[:space:]]Leap/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.so filter=lfs diff=lfs merge=lfs -text
+Skyward[[:space:]]Leap/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Skyward[[:space:]]Leap/Library/PackageCache/com.unity.burst@1.8.8/.Runtime/burst-llvm-15.dll filter=lfs diff=lfs merge=lfs -text
